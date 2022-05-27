@@ -1,5 +1,5 @@
 # nodejs-sign-in-page
-A webpage which has log in log out functionality by using node js, express js and mongodb
+A webpage which has log in log out functionalities by using node js, express js and mongodb
 
 # Requires
 1.Required folder- node-modules<br>
